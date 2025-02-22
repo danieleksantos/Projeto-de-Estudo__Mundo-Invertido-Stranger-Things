@@ -17,9 +17,8 @@ Projeto de estudo criado para explorar conceitos de **HTML**, **CSS** e **JavaSc
 
 - **Modo Claro e Escuro**: Troca dinâmica de temas com animações personalizadas.
 - **Interação com o DOM**: Animações e mudanças visuais com base na interação do usuário.
-- **Integração com Firebase**: Armazenamento de dados de interação e preferências de tema.
 
 ## 🌐 Link
 
-- [Demo](https://danieleksantos.github.io/Projeto-de-Estudo__Mundo-Invertido-Stranger-Things/)
+- [Versão online do projeto](https://danieleksantos.github.io/Projeto-de-Estudo__Mundo-Invertido-Stranger-Things/)
 
